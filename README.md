@@ -65,8 +65,10 @@ Atualmente trabalhando nos meus **primeiros repositórios**, voltados para:
 ### Arte e Personalização
 
 <p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" alt="Daft Punk Octocat">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="500" alt="Arte personalizada animada" />
 </p>
+
+
 
 ---
 
