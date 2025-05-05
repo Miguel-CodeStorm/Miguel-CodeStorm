@@ -1,49 +1,60 @@
-# Miguel CodeStorm
+<h1 align="center">Miguel CodeStorm</h1>
+<p align="center">
+  Desenvolvedor Web | Criador de Templates | Engenheiro de Prompt | Apaixonado por Tecnologia
+</p>
 
-### Desenvolvedor em formação | Estudante de Engenharia de Prompt | Explorador do universo tech
-
-Sou um entusiasta da tecnologia que decidiu transformar ideias em código. Embora esteja iniciando minha jornada como desenvolvedor, estudo com profundidade engenharia de prompt e as bases da programação para compreender o funcionamento real por trás das ferramentas de inteligência artificial.
-
-Acredito que dominar os fundamentos é essencial — não apenas para usar a IA, mas para saber quando corrigi-la. Minha missão é construir soluções funcionais, criativas e acessíveis, aliando automação, inteligência e lógica.
-
----
-
-### Tecnologias e Ferramentas em Estudo
-
-- **Engenharia de Prompt** (ChatGPT, Claude, Gemini, etc.)
-- **Fundamentos de Desenvolvimento Web** (HTML, CSS, JavaScript)
-- **Git e GitHub** (versionamento e colaboração)
-- **No-code/low-code** (Supabase, Lovable.dev, plataformas visuais)
-- **Open-source tools & automações**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Miguel-CodeStorm&show_icons=true&theme=radical" />
+</p>
 
 ---
 
-### Projetos em Desenvolvimento
+### Sobre mim
 
-Atualmente trabalhando nos meus primeiros repositórios, voltados para:
-
-- Templates e ferramentas para iniciantes
-- Projetos open-source com foco em acessibilidade e organização
-- Automação de fluxos usando IA e lógica personalizada
-
-*Em breve serão divulgados aqui.*
+Olá! Me chamo Miguel e sou um desenvolvedor apaixonado por criar experiências digitais funcionais, criativas e acessíveis. Atuo com tecnologias modernas de front-end e back-end, e também exploro o mundo da IA e automações.
 
 ---
 
-### Diferenciais
+### Tecnologias & Ferramentas
 
-- Pensamento estratégico e criativo desde a concepção até a entrega
-- Foco em clareza, estrutura e legibilidade de código (mesmo em estágios iniciais)
-- Capacidade de aliar IA ao desenvolvimento com visão crítica e técnica
-- Comprometido em aprender com profundidade, não apenas repetir fórmulas prontas
-
----
-
-### Contato e Links
-
-- **Em breve:** [www.codestrm.com.br](http://www.codestrm.com.br)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ---
 
-> *"Grandes ideias merecem ser construídas com propósito, não com pressa."*  
-> — Miguel CodeStorm
+### Em estudo
+
+- TypeScript
+- Next.js
+- PostgreSQL
+- IA com OpenAI API
+
+---
+
+### Projetos em destaque
+
+| Projeto | Descrição |
+|--------|-----------|
+| `storm-templates` | Repositório de templates para projetos web com foco em performance e acessibilidade |
+| `code-ai-prompt-engineering` | Estudos e aplicações de engenharia de prompt usando OpenAI |
+| `lolla-hair` | Site real de cliente no nicho de beleza, com autenticação, cronograma capilar e venda de cursos |
+
+---
+
+### Arte e Personalização
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/000000/00000000/code-art.png" width="600"/>
+</p>
+
+---
+
+### Apoie meu trabalho
+
+Se curtir o que faço, considere me apoiar! Me ajuda a continuar desenvolvendo projetos open-source e conteúdos educativos.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/miguelcodestorm)
